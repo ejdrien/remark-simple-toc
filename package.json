@@ -1,0 +1,22 @@
+{
+  "name": "remark-simple-toc",
+  "version": "1.0.0",
+  "description": "Simple table of contents for remark.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "remark",
+    "toc",
+    "table of contents"
+  ],
+  "repository": "ejdrien/remark-simple-toc",
+  "author": "Adrián Zámečník (https://adrianzamecnik.cz)",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-find": "^1.0.2",
+    "unist-util-visit": "^4.0.0"
+  }
+}
